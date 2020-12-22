@@ -1,7 +1,7 @@
 # CAT2
 111021  - Mithika Harry Karani
 110426  - Angatia Anthony
-        - Allen Njuguna
+110269  - Allen Njuguna
         - Stephanie Mboya
 113000  - Young Israel
         
