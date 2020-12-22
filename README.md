@@ -3,6 +3,6 @@
 110426  - Angatia Anthony
         - Allen Njuguna
         - Stephanie Mboya
-        - Young Israel
+113000  - Young Israel
         
 We created two models which were suitable to the breast cancer dataset, a Decision Tree and a KNN Classifier, so as to compare their performance.   
